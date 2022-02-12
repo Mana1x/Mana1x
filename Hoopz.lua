@@ -1,4 +1,4 @@
---Decompiled using Federal#9999's decompiler
+--Sup Fuckers ManaHub On topies
 
 
 if game.PlaceId == 6229116934 or game.PlaceId == 7221355866 and not game.CoreGui:FindFirstChild("ManaHub") then
